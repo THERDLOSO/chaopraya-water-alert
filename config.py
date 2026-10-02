@@ -1,4 +1,0 @@
-import os
-
-LINE_TOKEN = os.getenv("LINE_TOKEN", "YOUR_LINE_TOKEN_HERE")
-STATION_ID = "C.29"
